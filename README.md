@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## [Car AC Repair in Sharjah](https://www.busrepair.ae/car-ac-repair/)
 
-You can use the [editor on GitHub](https://github.com/samekhanok/Car-AC-Repair-in-Sharjah/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The coldest months of the year have passed and the vehicles' air conditioners have worked non-stop, warming the feet of drivers and passengers, which causes wear to the circuit. At the same time, in Sharjah, heat is already starting to bother drivers. The surprise comes when the air conditioner doesn't work well, or just doesn't cool down. Let's look at how to overhaul and repair the car's air conditioning.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The importance of air conditioning for safe driving.
 
-### Markdown
+Any failure in your vehicle's air conditioning system may result in a problem of convenience and visibility, thus being a serious danger to safety. Air conditioning is considered an active safety element, as it allows temperature and humidity conditions to be regulated. It contributes to the fight against fatigue caused by excess heat.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### How are leaks detected?
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/samekhanok/Car-AC-Repair-in-Sharjah/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Air conditioning overhaul requires technical knowledge and professional equipment. There are several methods for identifying the source of the leaks, although some methods are dangerous. It is recommended to go to a professional workshop to avoid possible inconveniences. At [busrepair](https://www.busrepair.ae/car-ac-repair/) we have staff specialized in the repair of air conditioning systems: we offer a complete service that includes the overhaul and replacement of the anti-pollen filter, the repair of leaks and malfunctions, the recharging of the air conditioning and the disinfection of the air conditioning circuit.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble Check out our [contact support](https://www.busrepair.ae/contact-us/) and we’ll help you sort it out.
